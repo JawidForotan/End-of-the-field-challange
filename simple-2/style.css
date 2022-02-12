@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+main {
+  background-color: black;
+}
+.container {
+  background-color: white;
+  margin: 0 22%;
+  padding: 25px;
+  font-size: 27px;
+  font-weight: bolder;
+}
+#par1 {
+  color: gray;
+  padding-bottom: 45px;
+}
+#par2 {
+  color: gray;
+  padding: 45px 0px;
+}
+#btn{
+    background-color: orange;
+    padding: 30px 75px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 15px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: white;
+
+}
+span{
+    color:rgb(153, 56, 87)
+}

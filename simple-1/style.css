@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 30%;
+  font-size: 40px;
+  color: rgb(4, 102, 102);
+  font-family: sans-serif;
+  position: absolute;
+}
+.par-2 {
+  font-weight: bold;
+}
+.icons {
+  display: flex;
+  color: rgb(4, 102, 102);
+}
+.icons img {
+  width: 5%;
+  padding: 20px;
+}
